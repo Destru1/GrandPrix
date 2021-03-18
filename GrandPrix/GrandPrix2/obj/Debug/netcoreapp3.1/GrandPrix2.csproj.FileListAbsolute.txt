@@ -1,0 +1,13 @@
+D:\C# PC\GrandPrix2\GrandPrix2\bin\Debug\netcoreapp3.1\GrandPrix2.exe
+D:\C# PC\GrandPrix2\GrandPrix2\bin\Debug\netcoreapp3.1\GrandPrix2.deps.json
+D:\C# PC\GrandPrix2\GrandPrix2\bin\Debug\netcoreapp3.1\GrandPrix2.runtimeconfig.json
+D:\C# PC\GrandPrix2\GrandPrix2\bin\Debug\netcoreapp3.1\GrandPrix2.runtimeconfig.dev.json
+D:\C# PC\GrandPrix2\GrandPrix2\bin\Debug\netcoreapp3.1\GrandPrix2.dll
+D:\C# PC\GrandPrix2\GrandPrix2\bin\Debug\netcoreapp3.1\GrandPrix2.pdb
+D:\C# PC\GrandPrix2\GrandPrix2\obj\Debug\netcoreapp3.1\GrandPrix2.csprojAssemblyReference.cache
+D:\C# PC\GrandPrix2\GrandPrix2\obj\Debug\netcoreapp3.1\GrandPrix2.AssemblyInfoInputs.cache
+D:\C# PC\GrandPrix2\GrandPrix2\obj\Debug\netcoreapp3.1\GrandPrix2.AssemblyInfo.cs
+D:\C# PC\GrandPrix2\GrandPrix2\obj\Debug\netcoreapp3.1\GrandPrix2.csproj.CoreCompileInputs.cache
+D:\C# PC\GrandPrix2\GrandPrix2\obj\Debug\netcoreapp3.1\GrandPrix2.dll
+D:\C# PC\GrandPrix2\GrandPrix2\obj\Debug\netcoreapp3.1\GrandPrix2.pdb
+D:\C# PC\GrandPrix2\GrandPrix2\obj\Debug\netcoreapp3.1\GrandPrix2.genruntimeconfig.cache
